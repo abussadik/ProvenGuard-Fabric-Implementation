@@ -1,0 +1,4 @@
+[
+  { "id": "EVT-ERR-001", "type": "out_of_sequence", "severity": "HIGH" },
+  { "id": "EVT-ERR-002", "type": "unauthorized_transition", "severity": "CRITICAL" }
+]

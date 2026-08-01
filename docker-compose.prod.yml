@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  api-server:
+    build: ./api-server
+    ports:
+      - "3000:3000"
+  web-interface:
+    build: ./web-interface
+    ports:
+      - "8080:80"

@@ -1,0 +1,4 @@
+[
+  { "id": "TEL-ERR-001", "sensor": "TEMP-01", "spoofed_value": 45.2 },
+  { "id": "TEL-ERR-002", "sensor": "HUM-02", "spoofed_value": 99.9 }
+]
