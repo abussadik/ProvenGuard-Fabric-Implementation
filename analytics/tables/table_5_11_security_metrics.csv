@@ -1,0 +1,4 @@
+Metric,Baseline,ProvenGuard
+Detection Rate,82.4%,99.1%
+Latency (ms),145,162
+Throughput (tps),850,810

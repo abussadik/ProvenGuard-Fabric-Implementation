@@ -1,0 +1,6 @@
+test:
+  name: provenguard-benchmark
+  description: Hyperledger Caliper Workload Benchmark for ProvenGuard-Fabric
+  workers:
+    type: local
+    number: 5

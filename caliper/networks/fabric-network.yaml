@@ -1,0 +1,4 @@
+name: Fabric
+version: '2.0.0'
+caliper:
+  blockchain: fabric

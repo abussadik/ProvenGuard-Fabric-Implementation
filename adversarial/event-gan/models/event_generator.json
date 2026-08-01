@@ -1,0 +1,7 @@
+{
+  "model_type": "event_generator",
+  "architecture": "GAN",
+  "latent_dim": 64,
+  "output_dim": 16,
+  "epochs_trained": 100
+}
