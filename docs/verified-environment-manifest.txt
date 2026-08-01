@@ -1,0 +1,5 @@
+VERIFIED ENVIRONMENT MANIFEST
+Docker 24.0.5
+Node v18.17.0
+Python 3.10.12
+Hyperledger Fabric 2.5.4

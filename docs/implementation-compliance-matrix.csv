@@ -1,0 +1,3 @@
+ReqID,Requirement,Status,VerificationMethod
+REQ-001,Equal Endorsement Policy,Implemented,Integration Test
+REQ-002,Telemetry Integrity,Implemented,Caliper Benchmark

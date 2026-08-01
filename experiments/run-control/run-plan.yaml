@@ -1,0 +1,5 @@
+experiments:
+  - id: exp_1
+    name: Baseline Scalability
+    duration_sec: 300
+    workload: caliper/benchmarks/config.yaml
