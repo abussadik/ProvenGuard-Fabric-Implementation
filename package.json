@@ -1,0 +1,9 @@
+{
+  "name": "provenguard-fabric",
+  "version": "1.0.0",
+  "description": "ProvenGuard-Fabric Implementation Repository",
+  "scripts": {
+    "test": "jest",
+    "start": "node api-server/server.js"
+  }
+}

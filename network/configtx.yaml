@@ -1,0 +1,19 @@
+---
+Organizations:
+  - &OrdererOrg
+    Name: OrdererOrg
+    ID: OrdererMSP
+  - &HAOrg
+    Name: HAOrg
+    ID: HAOrgMSP
+  - &SLAOrg
+    Name: SLAOrg
+    ID: SLAOrgMSP
+  - &WAOrg
+    Name: WAOrg
+    ID: WAOrgMSP
+Profiles:
+  ThreeOrgChannel:
+    Consortium: SampleConsortium
+    Orderer:
+      OrdererType: etcdraft

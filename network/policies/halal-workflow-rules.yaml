@@ -1,0 +1,3 @@
+rules:
+  - stage: PROCESSING
+    required_approvals: ["HAOrg", "SLAOrg"]
